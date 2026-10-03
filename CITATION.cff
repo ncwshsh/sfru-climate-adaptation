@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these scripts or derived tables, please cite this work."
+title: "Polygenic signals of climate adaptation in a globally invasive pest, the fall armyworm (Spodoptera frugiperda)"
+abstract: >-
+  Analysis code and derived data accompanying a study of climate adaptation in
+  the fall armyworm, based on a public resequencing panel of 214 individuals
+  from 12 countries across six study accessions.
+type: software
+authors:
+  - family-names: Hu
+    given-names: Wenchao
+version: "v2"
+date-released: "2026-09-25"
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+keywords:
+  - landscape genomics
+  - genotype-environment association
+  - Spodoptera frugiperda
+  - invasive species
+  - partial redundancy analysis
+  - reference bias

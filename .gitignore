@@ -1,0 +1,21 @@
+# 大文件：不入 git（见 README「Data not included here」）
+*.beagle
+*.beagle.gz
+*.bam
+*.bai
+*.cram
+*.vcf.gz
+# 逐位点全量 z 表 428 MB，超 GitHub 单文件 100MB 硬限
+data/locus_loadings/gea_rda_z_full.tsv
+# 临时与中间产物
+*.tmp
+*_bak_*
+*.bak_nopc
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# 逐位点统计（171 MB）改由 GitHub Release 提供，避免 clone 时被大文件阻塞
+data/locus_loadings/

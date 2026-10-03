@@ -1,0 +1,7 @@
+new_code	old_code	n_analysis	n_downloaded	coordinate_precision	countries	note
+P1	US	143	143	county-level (high)	2 (USA, Puerto Rico)	137 continental USA + 6 Puerto Rico
+P2	BR	24	30	county-level (high)	1 (Brazil)	6 low-mapping libraries excluded before analysis
+P3	AF	16	16	country centroid (low)	8	Zambia, China, Malaysia, Ghana, Malawi, Rwanda, Kenya, Sudan (2 each)
+P4	AM	15	15	country centroid (low)	5	Brazil, USA, Puerto Rico, Argentina, Kenya (3 each)
+P5	CN	10	10	province-level (medium)	1 (China)	
+P6	FL	6	6	county-level (high)	1 (USA, Florida)	
