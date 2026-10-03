@@ -1,5 +1,7 @@
 # Climate adaptation genomics of the fall armyworm (*Spodoptera frugiperda*)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23124223.svg)](https://zenodo.org/records/23124223)
+
 Analysis code and derived data for the manuscript *"Polygenic signals of climate adaptation in a globally invasive pest, the fall armyworm (Spodoptera frugiperda)"*.
 
 All primary sequence data are **public** and were obtained from existing archives; no new organisms were collected for this study. This repository contains the **analysis code** and the **derived tables** needed to reproduce every number reported in the manuscript.
